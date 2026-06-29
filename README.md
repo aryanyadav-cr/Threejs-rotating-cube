@@ -36,4 +36,4 @@ This project demonstrates the fundamentals of Three.js by creating a simple anim
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/threejs-basics.git
+https://github.com/aryanyadav-cr/Threejs-rotating-cube.git
